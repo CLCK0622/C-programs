@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(P7961)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(P7961 main.cpp)

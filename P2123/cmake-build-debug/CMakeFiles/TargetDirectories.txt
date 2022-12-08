@@ -1,0 +1,3 @@
+D:/CLCK/Desktop/C++/P2123/cmake-build-debug/CMakeFiles/P2123.dir
+D:/CLCK/Desktop/C++/P2123/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLCK/Desktop/C++/P2123/cmake-build-debug/CMakeFiles/rebuild_cache.dir

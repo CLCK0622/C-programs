@@ -1,0 +1,3 @@
+D:/CLCK/Desktop/C++/P1120/cmake-build-debug/CMakeFiles/P1120.dir
+D:/CLCK/Desktop/C++/P1120/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLCK/Desktop/C++/P1120/cmake-build-debug/CMakeFiles/rebuild_cache.dir
