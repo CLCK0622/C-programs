@@ -1,0 +1,3 @@
+D:/Desktop/C++/2022.12-Bronze/B/cmake-build-debug/CMakeFiles/B.dir
+D:/Desktop/C++/2022.12-Bronze/B/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/C++/2022.12-Bronze/B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
