@@ -1,0 +1,3 @@
+D:/Desktop/C++/P1330/cmake-build-debug/CMakeFiles/P1330.dir
+D:/Desktop/C++/P1330/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/C++/P1330/cmake-build-debug/CMakeFiles/rebuild_cache.dir
