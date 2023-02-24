@@ -1,0 +1,52 @@
+C:\Users\钟熠\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8617.54\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -S D:\CLCK\Desktop\Workspace\cpp-programs\P1441 -B D:\CLCK\Desktop\Workspace\cpp-programs\P1441\cmake-build-debug
+-- Building for: Visual Studio 16 2019
+-- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22621.
+-- The C compiler identification is MSVC 19.29.30147.0
+-- The CXX compiler identification is MSVC 19.29.30147.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_BUILD_TYPE
+
+
+-- Build files have been written to: D:/CLCK/Desktop/Workspace/cpp-programs/P1441/cmake-build-debug
+
+无法获取编译器信息:
+	编译器退出，错误代码 2: "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe" @C:\Users\钟熠\AppData\Local\Temp\response-file2163206352856741404 C:\Users\钟熠\AppData\Local\Temp\compiler-file2436969322383273991 | @response-file2163206352856741404=/TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /Be /Bd /EP
+	用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.29.30147 版
+	版权所有(C) Microsoft Corporation。保留所有权利。
+	
+	all:
+		@cd D:\CLCK\Desktop\Workspace\cpp-programs\P1441\cmake-build-debug
+		@set INCLUDE=
+		@set LIB=
+		@set CL=
+		@set _CL_=
+		@set LINK=
+		C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe @<< C:\Users\钟熠\AppData\Local\Temp\compiler-file2436969322383273991
+	/TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /Be /Bd /EP<<
+	
+	cl /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++17 /Be /Bd /EP
+	
+	compiler-file2436969322383273991
+	ENC_CWD=D:\CLCK\Desktop\Workspace\cpp-programs\P1441\cmake-build-debug
+	ENC_CL=C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\cl.exe
+	ENC_SRC=C:\Users\钟熠\AppData\Local\Temp\compiler-file2436969322383273991
+	ENC_PDB=D:\CLCK\Desktop\Workspace\cpp-programs\P1441\cmake-build-debug\vc140.pdb
+	ENC_CMD=-TP -DWIN32 -D_WINDOWS -EHs -EHc -Zi -Ob0 -Od -RTC1 -MDd -std:c++17 -Bd -EP -X
+	`C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x64\c1xx.dll -zm0x00007FF715AFFC60 -il C:\Users\钟熠\AppData\Local\Temp\_CL_397a53fd -typedil -f C:\Users\钟熠\AppData\Local\Temp\compiler-file2436969322383273991 -W 1 -Ze -D_MSC_EXTENSIONS -Zp16 -Focompiler-file2436969322383273991.obj -pc \:/ -Fdvc140.pdb -D_MSC_VER=1929 -D_MSC_FULL_VER=192930147 -D_MSC_BUILD=0 -D_M_AMD64=100 -ZILP448 -D_M_X64=100 -D_WIN64 -D_WIN32 -GS -GR -D_CPPRTTI -Zc:forScope -Zc:wchar_t -DWIN32 -D_WINDOWS -EHs -D_CPPUNWIND -EHc -Zi -Ot -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -std:c++17 -Bd -E -EP'
+	C:\Users\钟熠\AppData\Local\Temp\compiler-file2436969322383273991(3): fatal error C1034: version: 不包括路径集
+	
+	

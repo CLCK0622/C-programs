@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\CLCK\Desktop\Workspace\cpp-programs\P1441\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\CLCK\Desktop\Workspace\cpp-programs\P1441\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{52F36199-B418-32EB-89F5-DEAEC6DF4478}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
