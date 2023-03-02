@@ -1,0 +1,3 @@
+D:/CLCK/Desktop/Workspace/cpp-programs/T316823/cmake-build-debug/CMakeFiles/T316823.dir
+D:/CLCK/Desktop/Workspace/cpp-programs/T316823/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLCK/Desktop/Workspace/cpp-programs/T316823/cmake-build-debug/CMakeFiles/rebuild_cache.dir
