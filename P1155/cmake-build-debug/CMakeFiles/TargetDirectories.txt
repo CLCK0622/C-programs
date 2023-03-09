@@ -1,0 +1,3 @@
+D:/CLCK/Desktop/Workspace/cpp-programs/P1155/cmake-build-debug/CMakeFiles/P1155.dir
+D:/CLCK/Desktop/Workspace/cpp-programs/P1155/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLCK/Desktop/Workspace/cpp-programs/P1155/cmake-build-debug/CMakeFiles/rebuild_cache.dir
