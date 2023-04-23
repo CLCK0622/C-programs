@@ -1,0 +1,18 @@
+C:\Users\钟熠\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.8836.42\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/钟熠/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\CLCK\Desktop\Workspace\cpp-programs\P1073 -B D:\CLCK\Desktop\Workspace\cpp-programs\P1073\cmake-build-debug
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Users/钟熠/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/mingw/bin/gcc.exe
+-- Check for working C compiler: C:/Users/钟熠/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/mingw/bin/gcc.exe - works
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Check for working CXX compiler: C:/Users/钟熠/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/mingw/bin/g++.exe
+-- Check for working CXX compiler: C:/Users/钟熠/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/mingw/bin/g++.exe - works
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/CLCK/Desktop/Workspace/cpp-programs/P1073/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/P5490.dir/main.cpp.o -o P5490 

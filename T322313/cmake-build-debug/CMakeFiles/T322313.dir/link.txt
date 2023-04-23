@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O2 -Wall -g CMakeFiles/T322313.dir/main.cpp.o -o T322313 
