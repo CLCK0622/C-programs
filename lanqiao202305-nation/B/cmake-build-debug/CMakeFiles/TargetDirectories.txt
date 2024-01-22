@@ -1,0 +1,3 @@
+/Users/zhongyi/Desktop/Git-Workspace/C-programs/lanqiao202305-nation/B/cmake-build-debug/CMakeFiles/B.dir
+/Users/zhongyi/Desktop/Git-Workspace/C-programs/lanqiao202305-nation/B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhongyi/Desktop/Git-Workspace/C-programs/lanqiao202305-nation/B/cmake-build-debug/CMakeFiles/rebuild_cache.dir

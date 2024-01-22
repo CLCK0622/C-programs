@@ -1,0 +1,3 @@
+/Users/zhongyi/Desktop/Git-Workspace/C-programs/P7071/cmake-build-debug/CMakeFiles/temp.dir
+/Users/zhongyi/Desktop/Git-Workspace/C-programs/P7071/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhongyi/Desktop/Git-Workspace/C-programs/P7071/cmake-build-debug/CMakeFiles/rebuild_cache.dir
